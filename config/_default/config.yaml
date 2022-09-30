@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'My Notes' # Website name
-baseURL: 'https://carlpelletier.github.io/' # Website URL
+baseURL: 'https://carlpelletier.github.io' # Website URL
 
 ############################
 ## PAGE OPTIONS 
