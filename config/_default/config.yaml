@@ -4,10 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'My Notes' # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://carlpelletier.github.io/carlpelletier/' # Website URL
 
 ############################
-## PAGE OPTIONS
+## PAGE OPTIONS 
 ############################
 
 cascade:
@@ -26,6 +26,7 @@ languageCode: fr-ca
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+defaultContentLanguage: fr
 
 ############################
 ## MODULES
