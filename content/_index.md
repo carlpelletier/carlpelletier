@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: ✍️ Jumeau numérique - Carl Pelletier
 date: 2022-09-24
 toc: false
 
@@ -8,7 +8,7 @@ image:
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+Bienvenu sur la page de mon cerveau numérique!
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
